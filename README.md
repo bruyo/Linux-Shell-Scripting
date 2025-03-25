@@ -81,4 +81,19 @@ i = to activate the insert mode.
 
 ![alt text](sh9.JPG)
 
+## Variable Declaration and Initialization
+
+In Linux shell scripting, variables store data and are declared without a datatype. Initialization assigns a value using = without spaces (e.g., var="Hello"). Use $var to reference it. Variables can be local or environmental (export VAR=value). Quoting prevents unintended expansion, ensuring proper handling of strings and special characters
+
+## Task
+
+### Assign a value to a variable and print it
+
+'name = "John"
+
+'echo $name'
+
+'echo My name is $name'
+
+![alt text](sh10.JPG)
 

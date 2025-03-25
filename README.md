@@ -21,7 +21,7 @@ Fish: This focuses on usability with features like syntax highlighting and auto-
 
 This is usually at the beginning of every shell script which helps to specify the interpreter to execute the script. 
 
-## Project Task
+## Project Taske 
 
 ### Step 1: Create a folder on an ubuntu and name it shell-scripting
 
@@ -38,6 +38,15 @@ This is usually at the beginning of every shell script which helps to specify th
 ### Step 3: Type the shell script given and save it
 
 i = to activate the insert mode.
+
 :wq = to save and exit vim.
 
 ![alt text](sh2.JPG)
+
+### Step 4: Open the shell-scripting directory to confirm the file created
+
+'cd shell-scripting'
+
+'ls -latr'
+
+![alt text](sh3.JPG)

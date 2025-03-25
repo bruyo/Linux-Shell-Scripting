@@ -51,9 +51,28 @@ i = to activate the insert mode.
 
 ![alt text](sh3.JPG)
 
-### Step 5: Add the execute permission for the 'owner' to be able to execute the shell script
+### Step 5: Add the execute permission for the 'owner' to be able to execute the shell script and run it.
 
 'chmod +x my_first_shell_script.sh'
 
+'./my_first_shell_script.sh'
+
 ![alt text](sh4.JPG)
+
+### Step 6: Evaluate and ensure that 3 folders are created.
+
+'ls'
+
+![alt text](sh5.JPG)
+
+### Step 6: Evaluate and ensure that 3 users are created on linux server.
+
+'id user1'
+
+'id user2'
+
+'id user3'
+
+![alt text](sh6.JPG)
+
 

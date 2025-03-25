@@ -40,4 +40,4 @@ This is usually at the beginning of every shell script which helps to specify th
 i = to activate the insert mode.
 :wq = to save and exit vim.
 
-![alt text](sh3.JPG)
+![alt text](sh2.JPG)

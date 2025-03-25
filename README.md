@@ -23,8 +23,21 @@ This is usually at the beginning of every shell script which helps to specify th
 
 ## Project Task
 
-### Create a folder on an ubuntu and name it shell-scripting
+### Step 1: Create a folder on an ubuntu and name it shell-scripting
 
 'mkdir shell-scripting'
 
+![alt text](sh1.JPG)
 
+### Step 2: Using vim editor, create a file called 'my_first_shell_script.sh'
+
+'vim my_first_shell_script.sh'
+
+![alt text](sh2.JPG)
+
+### Step 3: Type the shell script given and save it
+
+i = to activate the insert mode.
+:wq = to save and exit vim.
+
+![alt text](sh3.JPG)

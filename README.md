@@ -59,11 +59,17 @@ i = to activate the insert mode.
 
 ![alt text](sh4.JPG)
 
+![alt text](sh5.JPG)
+
+![alt text](sh6.JPG)
+
+![alt text](sh7.JPG)
+
 ### Step 6: Evaluate and ensure that 3 folders are created.
 
 'ls'
 
-![alt text](sh5.JPG)
+![alt text](sh8.JPG)
 
 ### Step 6: Evaluate and ensure that 3 users are created on linux server.
 
@@ -73,6 +79,6 @@ i = to activate the insert mode.
 
 'id user3'
 
-![alt text](sh6.JPG)
+![alt text](sh9.JPG)
 
 

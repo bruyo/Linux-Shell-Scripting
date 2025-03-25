@@ -22,3 +22,9 @@ Fish: This focuses on usability with features like syntax highlighting and auto-
 This is usually at the beginning of every shell script which helps to specify the interpreter to execute the script. 
 
 ## Project Task
+
+### Create a folder on an ubuntu and name it shell-scripting
+
+'mkdir shell-scripting'
+
+

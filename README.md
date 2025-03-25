@@ -50,3 +50,10 @@ i = to activate the insert mode.
 'ls -latr'
 
 ![alt text](sh3.JPG)
+
+### Step 5: Add the execute permission for the 'owner' to be able to execute the shell script
+
+'chmod +x my_first_shell_script.sh'
+
+![alt text](sh4.JPG)
+

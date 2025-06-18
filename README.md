@@ -27,13 +27,13 @@ This is usually at the beginning of every shell script which helps to specify th
 
 'mkdir shell-scripting'
 
-![alt text](sh1.JPG)
+![alt text](/sh1.JPG)
 
 ### Step 2: Using vim editor, create a file called 'my_first_shell_script.sh'
 
 'vim my_first_shell_script.sh'
 
-![alt text](sh2.JPG)
+![alt text](/sh2.JPG)
 
 ### Step 3: Type the shell script given and save it
 
@@ -41,7 +41,7 @@ i = to activate the insert mode.
 
 :wq = to save and exit vim.
 
-![alt text](sh2.JPG)
+![alt text](/sh2.JPG)
 
 ### Step 4: Open the shell-scripting directory to confirm the file created
 
@@ -49,7 +49,7 @@ i = to activate the insert mode.
 
 'ls -latr'
 
-![alt text](sh3.JPG)
+![alt text](/sh3.JPG)
 
 ### Step 5: Add the execute permission for the 'owner' to be able to execute the shell script and run it.
 
@@ -57,19 +57,19 @@ i = to activate the insert mode.
 
 './my_first_shell_script.sh'
 
-![alt text](sh4.JPG)
+![alt text](/sh4.JPG)
 
-![alt text](sh5.JPG)
+![alt text](/sh5.JPG)
 
-![alt text](sh6.JPG)
+![alt text](/sh6.JPG)
 
-![alt text](sh7.JPG)
+![alt text](/sh7.JPG)
 
 ### Step 6: Evaluate and ensure that 3 folders are created.
 
 'ls'
 
-![alt text](sh8.JPG)
+![alt text](/sh8.JPG)
 
 ### Step 6: Evaluate and ensure that 3 users are created on linux server.
 
@@ -79,7 +79,7 @@ i = to activate the insert mode.
 
 'id user3'
 
-![alt text](sh9.JPG)
+![alt text](/sh9.JPG)
 
 ## Variable Declaration and Initialization
 
@@ -95,5 +95,5 @@ In Linux shell scripting, variables store data and are declared without a dataty
 
 'echo My name is $name'
 
-![alt text](sh10.JPG)
+![alt text](/sh10.JPG)
 

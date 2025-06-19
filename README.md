@@ -48,6 +48,20 @@ Bash is one of the shell tool used to interpret script. If we wanted to use anot
 
 'vim my_first_shell_script.sh'
 
+'#!/bin/bash
+
+# Create directories
+
+mkdir Folder1
+mkdir Folder2
+mkdir Folder3
+
+# Create users
+
+sudo useradd user1
+sudo useradd user2
+sudo useradd user3'
+
 ![alt text](/sh11.JPG)
 
 ![alt text](/sh2.JPG)
@@ -146,7 +160,7 @@ For example to retrieve "John" from the name variable by typing the command belo
 
 ### Assign a value to a variable and print it
 
-'name = "John"
+'name="John"
 
 'echo $name'
 
